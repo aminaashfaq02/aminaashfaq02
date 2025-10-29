@@ -3,7 +3,7 @@
 
 <p align="center">
   <img
-    src="https://images.steamusercontent.com/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=1200&imh=420&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"
+    src="./girl-coder.gif"
     alt="Cyber / coder vibe animated banner"
     width="100%" />
 </p>
