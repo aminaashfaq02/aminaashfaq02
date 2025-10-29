@@ -5,7 +5,9 @@
   <img
     src="./girl-coder.gif"
     alt="Cyber / coder vibe animated banner"
-    width="100%" />
+    width="100%" 
+    height="400px"
+    />
 </p>
 
 <h1 align="center">Hi, I'm Amina 👩‍💻</h1>
