@@ -1,71 +1,81 @@
 <!-- Profile README for aminaashfaq02 -->
+<!-- Tip: If the banner ever stops loading, save the GIF locally as /assets/banner.gif and update the src below. -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=ff69b4&center=true&vCenter=true&width=700&lines=Hey+I'm+Amina+Ashfaq+💻;Girls+Who+Code+Are+Unstoppable+🚀;WordPress+%7C+Frontend+%7C+Backend;Always+Learning+Always+Building+✨" alt="Typing SVG" />
+  <img
+    src="https://images.steamusercontent.com/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=1200&imh=420&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true"
+    alt="Cyber / coder vibe animated banner"
+    width="100%" />
+</p>
+
+<h1 align="center">Hi, I'm Amina 👩‍💻</h1>
+<p align="center">
+  WordPress Developer · Frontend & Backend · Clean UI • Reliable Code • Fast Delivery
+</p>
+
+<p align="center">
+  <a href="https://github.com/aminaashfaq02">
+    <img src="https://komarev.com/ghpvc/?username=aminaashfaq02&style=flat&color=ff69b4" alt="profile views"/>
+  </a>
 </p>
 
 ---
 
-## 👩‍💻 About Me  
-- 💕 Passionate **WordPress Developer & Web Designer**  
-- 🎨 Skilled in **HTML, CSS, JS, Tailwind, PHP & MySQL**  
-- 🌍 Building creative & powerful websites that leave a mark  
-- ☕ Fuelled by **coffee & curiosity**  
+## 👋 About Me
+- I craft **modern, responsive websites** with a focus on performance, accessibility, and clean code.
+- My toolkit lives at the intersection of **WordPress + Frontend (HTML/CSS/JS/Tailwind) + Backend (PHP/MySQL)**.
+- I enjoy turning simple briefs into **polished, production-ready experiences**.
+- Always learning. Always shipping. ✨
 
 ---
 
-## 🚀 Tech Stack  
-
+## 🧰 Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ---
 
-## 📊 GitHub Stats  
+## 🌟 What I Do
+- **WordPress Development:** custom themes, block editor (Gutenberg), performance, security hardening.
+- **Frontend UI:** semantic HTML, modern CSS, Tailwind utilities, responsive layouts, animations.
+- **Backend Logic:** PHP best practices, REST endpoints, form handling, auth flows, MySQL queries.
+- **Optimization:** Core Web Vitals, image/CDN strategy, caching, SEO-ready markup.
 
+---
+
+## 📌 Featured Work
+<!-- Replace these bullet points with real repos once pinned -->
+- 🔹 Custom WordPress theme with Tailwind & ACF blocks  
+- 🔹 Lightweight portfolio template with 95+ Lighthouse scores  
+- 🔹 PHP/MySQL CRUD dashboard with role-based access  
+
+> Tip: Pin your best three repositories on your profile for quick access.
+
+---
+
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aminaashfaq02&show_icons=true&theme=radical&hide_border=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aminaashfaq02&theme=radical&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aminaashfaq02&show_icons=true&theme=radical&hide_border=true" height="165" alt="GitHub stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aminaashfaq02&theme=radical&hide_border=true" height="165" alt="GitHub streak"/>
 </p>
-
-<!--
-If any stat cards fail to load (rate limits), you can comment them out and use this minimal fallback badge:
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub-Profile_Stats-grey?style=for-the-badge&logo=github" />
-</p>
--->
-
----
-
-<img src="[https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white](https://images.steamusercontent.com/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true)" />
-
----
-
-## 😄 Dev Jokes  
-
-> 💡 *Why do programmers prefer dark mode?*  
-> Because light attracts bugs 🐛😂  
-
-> 👩‍💻 *Girls in tech don’t just code…*  
-> They debug the world 🌍✨  
-
----
-
-## 🌐 Let's Connect  
-
-<p align="center">
-  <a href="https://github.com/aminaashfaq02"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="mailto:aminaashfaq02@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/aminaashfaq02"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminaashfaq02&layout=compact&theme=radical&hide_border=true" height="140" alt="Top languages"/>
 </p>
 
 ---
 
-✨ *"Code like a girl, rule the digital world!"* ✨
+## 🧪 Playground
+```html
+<!-- I like building UI that feels light, fast, and friendly. -->
+<button class="btn">Click me</button>
+<style>
+  .btn{padding:10px 18px;border-radius:10px;border:0;background:#ec4899;color:#fff;font-weight:600}
+  .btn:hover{transform:translateY(-1px);box-shadow:0 6px 18px rgba(236,72,153,.35)}
+</style>
