@@ -5,7 +5,6 @@
   <img
     src="./girl-coder.gif"
     alt="Cyber / coder vibe animated banner"
-    width="100%" 
     height="400px"
     />
 </p>
